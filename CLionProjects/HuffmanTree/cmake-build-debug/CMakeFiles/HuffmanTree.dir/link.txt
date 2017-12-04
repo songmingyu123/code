@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/HuffmanTree.dir/main.c.o  -o HuffmanTree 
